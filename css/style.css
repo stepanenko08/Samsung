@@ -1,0 +1,58 @@
+.menu ul li{
+    float: left;
+    list-style-type: none;
+    padding: 0 40px;
+    margin: 20px 0;
+    border-right: mediumblue solid 1px;
+}
+
+.logo{
+    float: left;
+    margin-right: 50px;
+}
+
+.title{
+    font-family: Arial;
+}
+
+.pink_text{
+    color: #DC143C;
+    font-size: 36px;
+}
+
+.clear{
+    clear: both;
+}
+
+.section_1 h1{
+    font-weight: 300;
+    color: #666666;
+}
+
+.box-img{
+    float: left;
+    padding-right: 70px;
+    padding: 0 20px;
+}
+
+
+.box-text .box-title{
+    color: #DC143C;
+}
+
+.clear-hr{
+    clear: both;
+}
+
+hr{
+    padding-top: 25px;
+}
+
+#last{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#second{
+    padding-top: 50px;
+}

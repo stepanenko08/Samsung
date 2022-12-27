@@ -1,0 +1,58 @@
+*{
+    background-color: antiquewhite;
+}
+
+.menu ul li{
+    float: left;
+    list-style-type: none;
+    padding: 0 40px;
+    margin: 20px 0;
+    border-right: mediumblue solid 1px;
+}
+
+.logo{
+    float: left;
+    margin-right: 50px;
+}
+.img{
+    float: right;
+    padding-top: 100px;
+}
+
+.container-2{
+    border-top: gray solid 2px;
+    max-width: 100%;
+    padding-top: 50px;
+}
+
+.e500{
+    text-decoration: none;
+    color: palevioletred;
+}
+
+.tittle{
+    color: gray;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pink_text{
+    color: palevioletred;
+}
+
+.list{
+    padding-left: 32px;
+}
+
+h3{
+    color: palevioletred;
+}
+
+.selection_2{
+    padding-top: 25px;
+}
+
+.selection_3{
+    padding-top: 25px;
+}
